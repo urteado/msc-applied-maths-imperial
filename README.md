@@ -12,7 +12,7 @@ Replicator systems, best response dynamics and fictitious games, reinforcement l
 - Methods for Data Science Term 2 - 1st, 88%
 Computational tools for data analysis and visualisation, exploratory data analysis, optimisation;
 Methods in Machine Learning: supervised and unsupervised; neural networks and deep learning; graph-based data learning;
-Machine learning in practice: regressions, k-nearest neighbours, random forests, support vector machines, neural networks, principal component analysis, k-means, spectral clustering, manifold learning, network statistics, community detection.
+Machine learning in practice: **regressions, k-nearest neighbours, random forests, support vector machines, neural networks, principal component analysis, k-means, spectral clustering, manifold learning, network statistics, community detection**.
 
 - Scientific Computation Term 2 - 2:1, 69%
 Sorting and searching with scientific applications from fields such as bioinformatics, algorithms on graphs and basic data structures such as queues and hash tables;
