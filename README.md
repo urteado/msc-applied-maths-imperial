@@ -1,4 +1,5 @@
-### MSC APPLIED MATHEMATICS Distinction
+### MSC APPLIED MATHEMATICS (Distrinction)
+code by Urte Adomaityte
 
 This repository contains the code produced for the MSc coursework modules at Imperial College London:
 - Computational Linear Algebra - 1st, 73%
