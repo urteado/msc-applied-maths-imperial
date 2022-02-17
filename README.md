@@ -1,6 +1,7 @@
-### MSC APPLIED MATHEMATICS
+### MSC APPLIED MATHEMATICS Distinction
 
-This repository contains the code produced for the MSc Applied Mathematics coursework modules at Imperial College London:
-- Computational Linear Algebra Term 1 (overall 70-80%, exact pending)
-- Scientific Computation Term 2 (83% for project 1, overall 70-80%, exact pending)
-- Methods for Data Science Term 2 (88% overall)
+This repository contains the code produced for the MSc coursework modules at Imperial College London:
+- Computational Linear Algebra - 1st, 73%
+- Dynnamics of Games - 1st, 90%
+- Methods for Data Science Term 2 - 1st, 88%
+- Scientific Computation Term 2 - 2:1, 69%
