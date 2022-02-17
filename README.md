@@ -1,4 +1,4 @@
-### MSC APPLIED MATHEMATICS (Distrinction)
+### MSC APPLIED MATHEMATICS (Distinction)
 code by Urte Adomaityte
 
 This repository contains the code produced for the MSc coursework modules at Imperial College London:
