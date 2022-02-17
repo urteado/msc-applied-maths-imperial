@@ -7,7 +7,7 @@ This repository contains the code produced for the MSc coursework modules at Imp
 Algorithms used to solve linear systems and eigenvalue problems, in terms of their development, stability properties, and application. Direct methods, eigenvalue problems, iterative methods + mastery component on polyfit improvement with Vandermonde + Arnoldi https://arxiv.org/abs/1911.09988 theory and implementation
 
 - Dynamics of Learning and Iterated Games - 1st, 90%
-Replicator systems, best response dynamics and fictitious games, reinforcement learning and no-regret learning + coursework on reciprocity, success of tit-for-tat (zero-determinant) strategies in Axelrod's tournaments + live presentation
+Replicator systems, best response dynamics and fictitious games, reinforcement learning and no-regret learning + coursework on reciprocity, success of tit-for-tat (zero-determinant) strategies in Axelrod's tournaments + python implementation of tournament + live presentation
 
 - Methods for Data Science Term 2 - 1st, 88%
 Computational tools for data analysis and visualisation, exploratory data analysis, optimisation;
